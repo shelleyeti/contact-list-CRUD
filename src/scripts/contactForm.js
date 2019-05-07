@@ -28,7 +28,7 @@ const editContact = {
                 Address: <input class="editAddress" value="" type="text" name="fname"><br>
                 Phone: <input class="editPhone" value="" type="text" name="lname"><br>
             </form>
-            <button class="createButton">Create</button>
+            <button class="createNewButton">Create</button>
             <hr> </div>`
     },
 }
